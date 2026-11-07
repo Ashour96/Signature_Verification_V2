@@ -1,0 +1,11 @@
+﻿CustomerID,NationalID,FullName,AccountNumber,PhoneNumber,Email,AccountType,Balance,SignatureImagePath
+1001,2.9801E+13,Ahmed Mohamed Ali,EG100001,01012345671,ahmed@example.com,Savings,15000.5,F:\03 - Projects\8_Signature_Verification\Data\contract\Old\Forg_1.jpeg
+1002,2.95052E+13,Sara Hassan Mahmoud,EG100002,01012345672,sara@example.com,Current,25000,F:\03 - Projects\8_Signature_Verification\Data\contract\Old\Forg_2.jpeg
+1003,3.00072E+13,Omar Khaled Ibrahim,EG100003,01012345673,omar@example.com,Savings,8700.75,F:\03 - Projects\8_Signature_Verification\Data\contract\Old\Org_3.png
+1004,2.9711E+13,Mona Ahmed Mostafa,EG100004,01012345674,mona@example.com,Current,42000,F:\03 - Projects\8_Signature_Verification\Data\contract\Old\Org_1.jpeg
+1005,2.99023E+13,Youssef Ali Hassan,EG100005,01012345675,youssef@example.com,Savings,12000,F:\03 - Projects\8_Signature_Verification\Data\contract\Old\WhatsApp Image 2026-10-09 at 12.36.09 AM.png
+1006,2.96061E+13,Nour Mohamed Samir,EG100006,01012345676,nour@example.com,Savings,9800.25,F:\03 - Projects\8_Signature_Verification\Data\contract\Old\Ashour_Forg.png
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
